@@ -1,4 +1,5 @@
-#ifndef 
+#ifndef I2C_LIB_H_
+#define I2C_LIB_H_
 /*
 	this header file written by Mohamed Nagdy .
 	this header file is for I2C Protocol for AVR Micro Controller
